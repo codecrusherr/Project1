@@ -25,3 +25,27 @@ To run this project locally, you need to have Python installed on your machine. 
 2. Navigate to the project directory.
 3. Install the required dependencies:
 
+
+## Dependencies
+
+- Streamlit
+- Pandas
+- NumPy
+- NLTK
+
+## Usage
+
+After running the application, navigate to the provided local URL (usually `http://localhost:8501`) in your web browser to view and interact with the app.
+
+## Contributing
+
+Contributions to this project are welcome. Please fork the repository and submit a pull request with your changes.
+
+## License
+
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Acknowledgments
+
+- Streamlit Docs: [https://docs.streamlit.io/library/api-reference](https://docs.streamlit.io/library/api-reference)
+
